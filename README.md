@@ -1,9 +1,9 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Java Kanaya Prada  
-**NRP**: 5025211112
-**Judul TA**: Rekonstruksi Forensik pada Sistem Operasi Linux Berbasis Serialisasi Data YAML
-**Dosen Pembimbing**: Hudan Studiawan, S.Kom., M.Kom.,Ph.D.
+**NRP**: 5025211112  
+**Judul TA**: Rekonstruksi Forensik pada Sistem Operasi Linux Berbasis Serialisasi Data YAML  
+**Dosen Pembimbing**: Hudan Studiawan, S.Kom., M.Kom.,Ph.D.  
 **Dosen Ko-pembimbing**: Dr. Baskoro Adi Pratomo., S.Kom., M.Kom.
 
 ---
