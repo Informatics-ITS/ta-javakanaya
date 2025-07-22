@@ -10,7 +10,7 @@
 
 ## 📺 Demo Aplikasi  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=55QiwT1vRgs)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
